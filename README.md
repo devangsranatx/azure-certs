@@ -2,4 +2,4 @@
 My professional cloud certifications
 ## ☁️ Microsoft Azure Certificate
 
-- [View Azure Fundamentals Certificate](./azure-fundamentals-cert.pdf)
+- [View Azure Fundamentals Certificate](https://github.com/devangsranatx/azure-certs)
